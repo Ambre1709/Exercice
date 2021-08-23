@@ -1,3 +1,12 @@
+#### 🔨 Fait avec
+* Vue.js
+* Javascript
+* Tailwind
+* Json Server
+* HTML5 & CSS3
+
+---
+
 # frontend
 
 ## Project setup
